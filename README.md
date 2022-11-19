@@ -1,9 +1,11 @@
-Всех категорически приветствую!
+Эдуард Эмильевич, здравствуйте!
 
-Это корневая директория, содержащая следующие веточки:
-  1.  Первая лабораторная работа: https://github.com/NemkovYaroslav/Algorithms/tree/Lab1_Hammurabi
-  2.  Вторая лабораторная работа: https://github.com/NemkovYaroslav/Algorithms/tree/Lab2_Dynamic_Array
-  3.  Третья лабораторная работа: "в разработке"
-  4.  Четвертая лабораторная работа: "в разработке"
+Описание методов:
+void InsertionSort(T* first, T* last, Compare comp) - функция сортировки вставками
+T FindMedian (T& a, T& b, T& c, Compare compare) - функция поиска медианного значения
+void QuickSort(T* first, T* last, Compare compare, bool useInsertionSort = true) - функция быстрой сортировки
+<другие элементы> - функция замера времени и вспомогательные элементы
+
+Модульные тесты сделаны на базе CppUnitTestFramework и содержат проверку функций сортировок
 
 Подпись: :)
