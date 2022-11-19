@@ -1,0 +1,8 @@
+﻿  ThirdLab.cpp
+C:\Users\KYKLOWOOD\source\repos\ThirdLab\ThirdLab\ThirdLab.cpp(105,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\KYKLOWOOD\source\repos\ThirdLab\ThirdLab\ThirdLab.cpp(133): message : выполняется компиляция ссылки на экземпляр шаблон функции "Performance StartTest<int,main::<lambda_1>>(int,Compare)"
+          with
+          [
+              Compare=main::<lambda_1>
+          ]
+  ThirdLab.vcxproj -> C:\Users\KYKLOWOOD\source\repos\ThirdLab\x64\Debug\ThirdLab.exe

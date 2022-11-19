@@ -1,0 +1,9 @@
+﻿  UnitTestSort.cpp
+C:\Users\KYKLOWOOD\source\repos\ThirdLab\ThirdLab\ThirdLab.cpp(105,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\KYKLOWOOD\source\repos\ThirdLab\ThirdLab\ThirdLab.cpp(133): message : выполняется компиляция ссылки на экземпляр шаблон функции "Performance StartTest<int,main::<lambda_c0ca7679028fd4af70d7eda42b27f148>>(int,Compare)"
+          with
+          [
+              Compare=main::<lambda_c0ca7679028fd4af70d7eda42b27f148>
+          ]
+     Создается библиотека C:\Users\KYKLOWOOD\source\repos\ThirdLab\x64\Debug\UnitTestSort.lib и объект C:\Users\KYKLOWOOD\source\repos\ThirdLab\x64\Debug\UnitTestSort.exp
+  UnitTestSort.vcxproj -> C:\Users\KYKLOWOOD\source\repos\ThirdLab\x64\Debug\UnitTestSort.dll
