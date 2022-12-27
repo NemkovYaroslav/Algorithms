@@ -1,9 +1,14 @@
-Всех категорически приветствую!
+Эдуард Эмильевич, здравствуйте!
 
-Это корневая директория, содержащая следующие веточки:
-  1.  Первая лабораторная работа: https://github.com/NemkovYaroslav/Algorithms/tree/Lab1_Hammurabi
-  2.  Вторая лабораторная работа: https://github.com/NemkovYaroslav/Algorithms/tree/Lab2_Dynamic_Array
-  3.  Третья лабораторная работа: https://github.com/NemkovYaroslav/Algorithms/tree/Lab3_QuickSort
-  4.  Четвертая лабораторная работа: https://github.com/NemkovYaroslav/Algorithms/tree/Lab4_Allocators
+Стояла задача реализации менеджера памяти для эффективного управления памятью
+
+Для этого были реализованы Fixed-Size Allocator (FSA) и Coalesce Allocator (CA)
+
+FSA использовался для блоков памяти на 16, 32, 64, 128, 256, 512 байт
+
+CA использовался для блоков памяти больших 512 байт и меньших 10 МБ
+
+Если блок памяти оказывался больше 10 МБ, то управление передавалось ОС
+
 
 Подпись: :)
