@@ -1,11 +1,11 @@
 Всех категорически приветствую!
 
-Первая лабораторная: https://github.com/NemkovYaroslav/Algorithms/pull/6
+Первая лабораторная: https://github.com/NemkovYaroslav/Algorithms/tree/Lab1_Hammurabi
 
-Вторая лабораторная: https://github.com/NemkovYaroslav/Algorithms/pull/4
+Вторая лабораторная: https://github.com/NemkovYaroslav/Algorithms/tree/Lab2_Dynamic_Array
 
-Третья лабораторная: https://github.com/NemkovYaroslav/Algorithms/pull/7
+Третья лабораторная: https://github.com/NemkovYaroslav/Algorithms/tree/Lab3_QuickSort
 
-Четвертая лабораторная: https://github.com/NemkovYaroslav/Algorithms/pull/10
+Четвертая лабораторная: https://github.com/NemkovYaroslav/Algorithms/tree/Lab4_Allocators
 
 Подпись: :)
