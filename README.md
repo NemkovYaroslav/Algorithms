@@ -1,11 +1,13 @@
-Всех категорически приветствую!
+Эдуард Эмильевич, здравствуйте!
 
-Первая лабораторная: https://github.com/NemkovYaroslav/Algorithms/tree/Lab1_Hammurabi
+Стояла задача реализации менеджера памяти для эффективного управления памятью
 
-Вторая лабораторная: https://github.com/NemkovYaroslav/Algorithms/tree/Lab2_Dynamic_Array
+Для этого были реализованы Fixed-Size Allocator (FSA) и Coalesce Allocator (CA)
 
-Третья лабораторная: https://github.com/NemkovYaroslav/Algorithms/tree/Lab3_QuickSort
+FSA использовался для блоков памяти на 16, 32, 64, 128, 256, 512 байт
 
-Четвертая лабораторная: https://github.com/NemkovYaroslav/Algorithms/tree/Lab4_Allocators
+CA использовался для блоков памяти больших 512 байт и меньших 10 МБ
 
-Подпись: :)
+Если блок памяти оказывался больше 10 МБ, то управление передавалось ОС
+
+Подпись: :) 
