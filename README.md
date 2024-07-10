@@ -15,5 +15,3 @@
 13. class Iterator : public ConstIterator - класс стандартного итератора
 
 Модульные тесты сделаны на базе CppUnitTestFramework и содержат проверку всех методов
-
-Подпись: :)
