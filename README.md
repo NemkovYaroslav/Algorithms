@@ -75,4 +75,4 @@ allocator.free(pa); allocator.free(pd); allocator.free(pi); allocator.destroy();
 
 ![Result](AllocatorsResult.png)
 
-Были реализованны отдельные классы `FSA` и `CA` для аллокаторов, а также класс `MemoryAllocator` для менеджера памяти.
+Были реализованны отдельные классы `FSA` и `CA` для аллокаторов, а также класс `MemoryAllocator` для менеджера памяти
