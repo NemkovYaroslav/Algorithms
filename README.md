@@ -104,4 +104,4 @@ std::cout << it.get() << std::endl;
 12. ``` class ConstIterator ``` - класс константного итератора
 13. ``` class Iterator : public ConstIterator ``` - класс стандартного итератора
 
-Модульные тесты сделаны на базе CppUnitTestFramework и содержат проверку всех методов
+Модульные тесты реализованы на базе CppUnitTestFramework и содержат проверку всех методов
