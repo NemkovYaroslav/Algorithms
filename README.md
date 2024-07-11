@@ -92,7 +92,7 @@ std::cout << it.get() << std::endl;
 1.  ``` Array() ``` - конструктор по-умолчанию
 2.  ``` Array(int capacity) ``` - конструктор с параметрами
 3.  ``` Array(const Array& other) ``` - копирующий конструктор
-4.  ``` Array& operator = (const Array& other) + void swap(Array& other) ``` - копирующий оператор присваивания, реализован через идиому Copy-Swap Idiom
+4.  ``` Array& operator = (const Array& other) + void swap(Array& other) ``` - копирующий оператор присваивания, реализован через Copy-Swap идиому
 5.  ``` Array(Array&& other) ``` - перемещающий конструтор, реализует move-семантику
 6.  ``` Array& operator=(Array&& other) ``` - перемещающий оператор присваивания
 7.  ``` Array operator+(const Array& other) ``` - оператор конкатенации
