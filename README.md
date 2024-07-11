@@ -1,3 +1,5 @@
+# Лабораторные работы по особенностям C++
+
 Первая лабораторная: https://github.com/NemkovYaroslav/Algorithms/tree/Lab1_Hammurabi
 
 Вторая лабораторная: https://github.com/NemkovYaroslav/Algorithms/tree/Lab2_Dynamic_Array
