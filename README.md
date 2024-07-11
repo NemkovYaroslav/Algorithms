@@ -1,6 +1,8 @@
 ## Игровой процесс
 
-![Wildfire result screenshot](GameProcess.png)
+Ниже представлен скриншот примера игрового процесса.
+
+![Game Process Example](GameProcess.png)
 
 Файл сохранения оформлен достаточно просто, поэтому уточню:
 1.	текущий раунд;
