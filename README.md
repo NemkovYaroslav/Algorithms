@@ -66,7 +66,7 @@ allocator.free(pa); allocator.free(pd); allocator.free(pi); allocator.destroy();
 
 ## Обзор
 
-Сравнение алгоритмов сортировки представлено на рисунке ниже
+Результаты работы аллокаторов представлены на рисунке ниже
 
 ![Result](AllocatorsResult.png)
 
