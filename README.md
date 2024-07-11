@@ -4,18 +4,24 @@
 
 ## Игра Хаммураби
 
-Первая лабораторная работа предполагает создание клона игры Хаммураби.
+Первая лабораторная работа предполагает реализацию клона игры Хаммураби
+
 Ссылка на проект: https://github.com/NemkovYaroslav/Algorithms/tree/Lab1_Hammurabi
 
 ## Динамический массив
 
-Вторая лабораторная работа предполагает реализацию стандартной логики динамического массива.
-Ссылка на проект: [https://github.com/NemkovYaroslav/Algorithms/tree/Lab1_Hammurabi](https://github.com/NemkovYaroslav/Algorithms/tree/Lab2_Dynamic_Array)
+Вторая лабораторная работа предполагает реализацию стандартной логики динамического массива
 
+Ссылка на проект: https://github.com/NemkovYaroslav/Algorithms/tree/Lab2_Dynamic_Array
 
+## Сортировка
 
-Вторая лабораторная: https://github.com/NemkovYaroslav/Algorithms/tree/Lab2_Dynamic_Array
+Третья лабораторная работа предполагает реализацию алгоритма быстрой сортировки с оптимизациями
 
-Третья лабораторная: https://github.com/NemkovYaroslav/Algorithms/tree/Lab3_QuickSort
+Ссылка на проект: https://github.com/NemkovYaroslav/Algorithms/tree/Lab3_QuickSort
 
-Четвертая лабораторная: https://github.com/NemkovYaroslav/Algorithms/tree/Lab4_Allocators
+## Менеджер памяти
+
+Четвертая лабораторная работы предполагается реализацию универсального менеджера памяти на основе различных подходов.
+
+Ссылка на проект: https://github.com/NemkovYaroslav/Algorithms/tree/Lab4_Allocators
