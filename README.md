@@ -1,6 +1,6 @@
 ## Игровой процесс
 
-![Wildfire result screenshot](/Игровой процесс.png)
+![Wildfire result screenshot](GameProcess.png)
 
 Файл сохранения оформлен достаточно просто, поэтому уточню:
 1.	текущий раунд;
